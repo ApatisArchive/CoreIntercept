@@ -12,7 +12,7 @@
         stopOnFailure="true"
         bootstrap="vendor/autoload.php">
     <!-- start tees suite -->
-    <testsuite name="Array Storage Tests">
+    <testsuite name="Core Intercept Tests">
         <directory suffix=".php">./Tests/PhpUnit</directory>
     </testsuite>
     <filter>
